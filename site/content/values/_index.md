@@ -8,7 +8,7 @@ values:
     heritage and legacy by bringing students to the sites of great historical
     and religious significance.  Like the parable of Jesus leading his disciples
     across a wide river and trusting that God, the Father, would deliver them
-    safely to the other shore,  our motto is: 
+    safely to the other shore,  our motto is- 
     When we have faith and trust in God, we can achieve anything,
     even if it seems impossible.
     imageUrl: "/img/about-shade-grown.jpg"
@@ -35,7 +35,7 @@ values:
       luggage, to having funds for keepsakes, are all-inclusive and free to student 
       participants and their accompanying parent or guardian.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Diversity: They, Us, We"
+  - heading: "Diversity- They, Us, We"
     text: >
       The Catholic Church teaches that all people are created in the image of God 
       and should be treated with dignity and respect. Therefore, Catholics are 
