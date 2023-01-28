@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "209 E Washington Avenue, Jackson, Michigan 49201"
   - heading: Contact Us
-    text:"Email: catholicfootsteps@gmail.com  or Phone (517) 939-9832"
+    text:"Email: catholicfootsteps@gmail.com "
 ---
 
 Explore our website to learn more about our mission and ways to get involved.
