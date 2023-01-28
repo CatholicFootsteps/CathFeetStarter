@@ -41,20 +41,18 @@ values:
       and should be treated with dignity and respect. Therefore, Catholics are 
       called to work towards creating a just society where everyone has equal 
       opportunities and is treated with fairness and compassion. This includes 
-      working towards ending poverty, promoting education, and fighting for the 
-      rights of marginalized groups. We value diversity.  We value you!
+      working towards ending poverty, promoting education, and fighting for 
+      the rights of marginalized groups. We value diversity.  We value you!
     imageUrl: "/img/about-direct-sourcing.jpg"
   - heading: "Invest in the Global Catholic Community"
     text: >
       The Catholic Church is a global community, rather than simply as a
       collection of national or regional churches.
-      
       Catholic Footsteps emphasizes the importance of connecting and 
       collaborating with Catholics from all over the world, and working
       together to address global issues. 
-      
-      Catholic Footsteps encourages Catholics to be more aware of the diverse
-      cultures and traditions within the Church, and to celebrate and learn
-      from the richness of these differences.
+      Catholic Footsteps encourages Catholics to be more aware of the
+      diverse cultures and traditions within the Church, and to celebrate 
+      and learn from the richness of these differences.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
