@@ -8,8 +8,9 @@ values:
     heritage and legacy by bringing students to the sites of great historical
     and religious significance.  Like the parable of Jesus leading his disciples
     across a wide river and trusting that God, the Father, would deliver them
-    safely to the other shore,  out motto is: "When we have faith and trust
-    in God, we can achieve anything, even if it seems impossible."
+    safely to the other shore,  our motto is: 
+    When we have faith and trust in God, we can achieve anything,
+    even if it seems impossible.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Guided by History"
     text: >
