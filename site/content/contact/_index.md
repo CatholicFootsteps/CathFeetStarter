@@ -3,17 +3,14 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "209 E Washington Avenue, Jackson, Michigan 49201"
+  - heading: Best Way to Reach Us
+    text:"Email: catholicfootsteps@gmail.com  or phone (517) 939-9832"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Explore our website to learn more about our mission and whys you can help.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can also use the form below for any inquiries about our programs, making a donations, and supporting our efforts.
+Don’t be shy, drop us a line!
