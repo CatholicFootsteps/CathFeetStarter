@@ -49,43 +49,42 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: 2nd Grade Queens Student
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Meeting the Pope was so exciting.  Other kids should see the Pope too
+      and Italian ice cream was the best!
+  - author: Erich Hebel
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I never imagined how youthful, spirited and diverse the Catholic
+      community was and is. It made me really proud to be Catholic and was
+      nothing short of amazing.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Program Benefits
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to participate is this unique travel opportunity.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'For Students in Catholic Education'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Streamlined Application Process
+        - School or Parish Recommendation
+        - Community Recognition
+      plan: Amazing
+      price: 'Free'
+    - description: 'For Parents or Guardians'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - All- Inclusive (airfare, lodging, food, entertainment)                   
+        - A parent or legal guardian must attend
+        - Experience of a lifetime
+      plan: Fantastic
+      price: 'Free'
+    - description: Our Donors and Supporters
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Support program fees
+        - Sponsor a family
+        - Unlimited blessings
+      plan: Priceless
+      price: 'Contact Us'
 ---
 
 
