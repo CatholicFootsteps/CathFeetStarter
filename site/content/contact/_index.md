@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-logo: "/img/logo.svg"
+logo: "/img/logo.jpg"
 contact_entries:
   - heading: Location
     text: "209 E Washington Avenue, Jackson, Michigan 49201"
