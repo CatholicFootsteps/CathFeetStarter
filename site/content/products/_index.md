@@ -49,7 +49,6 @@ testimonials:
       I never imagined how youthful, spirited and diverse the Catholic
       community was and is. It made me really proud to be Catholic and was
       nothing short of amazing.
-full_image: /img/logo.jpg
 pricing:
   heading: Program Benefits
   description: >-
