@@ -18,10 +18,10 @@ products:
       text: "We offer unique small-group travel experiences for students with their parent or guardian, that are carefully curated and interactive."
 values:
     heading: Our values
-    text: "- **Make a Pilgrimage**: To facilitate spiritual journeys, to historical sites that are important to our Catholic faith. These trips are a way to deepen one's faith and connect with the spiritual history of the Church.
+    text: "Make a Pilgrimage: To facilitate spiritual journeys, to historical sites that are important to our Catholic faith. These trips are a way to deepen one's faith and connect with the spiritual history of the Church.\n
 
-- **Foster Respect for Historical Sites and Artifacts**: Cultivate an appreciation for the preservation and respect of historical sites and artifacts that are important to our Catholic faith, such as churches, cathedrals, and religious artwork - because of their historical and spiritual significance.
+Foster Respect for Historical Sites and Artifacts: Cultivate an appreciation for the preservation and respect of historical sites and artifacts that are important to our Catholic faith, such as churches, cathedrals, and religious artwork - because of their historical and spiritual significance. \n
 
-- **Encounter Different Cultures**: Catholic heritage and history is not limited to one country or culture, it is a global heritage. We recognize that the Catholic faith has been lived out in many different ways throughout history and that by understanding and appreciating different cultural expressions of the faith, we can deepen our own understanding of our Catholic faith."
+Encounter Different Cultures: Catholic heritage and history is not limited to one country or culture, it is a global heritage. We recognize that the Catholic faith has been lived out in many different ways throughout history and that by understanding and appreciating different cultural expressions of the faith, we can deepen our own understanding of our Catholic faith."
 ---
 
