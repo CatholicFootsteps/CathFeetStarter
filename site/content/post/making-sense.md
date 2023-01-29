@@ -1,7 +1,7 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: "Catholics in Jackson, Michigan - A History of Size and Activism"
 date: 2022-12-26T15:04:10.000Z
-description: The Catholic Community in Jackson, Michigan: A History of Size and Activism
+description: Learn about the vibrant Catholic community in Jackson, Michigan.
 image: /img/blog-flavor_wheel.jpg
 ---
 The Catholic community in Jackson, Michigan has been a vital part of the city's history for over a century. From its humble beginnings in the late 19th century, the Catholic community in Jackson has grown and evolved to become one of the largest and most active religious communities in the area.
