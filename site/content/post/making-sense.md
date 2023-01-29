@@ -1,27 +1,18 @@
 ---
 title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+date: 2022-12-26T15:04:10.000Z
+description: The Catholic Community in Jackson, Michigan: A History of Size and Activism
 image: /img/blog-flavor_wheel.jpg
 ---
+The Catholic community in Jackson, Michigan has been a vital part of the city's history for over a century. From its humble beginnings in the late 19th century, the Catholic community in Jackson has grown and evolved to become one of the largest and most active religious communities in the area.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+In the early 20th century, the Catholic community in Jackson was relatively small, but it was a tight-knit group of people who were dedicated to their faith and their community. Over the years, the Catholic community in Jackson grew in size as more and more families moved to the area. This growth was due in part to the expansion of industry in the city, which attracted workers from across the country and around the world.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Throughout the 20th century, the Catholic community in Jackson remained active and engaged in both their faith and their community. They built schools, churches, and other community facilities to support their growing population, and they worked tirelessly to promote the teachings of the Catholic Church.
 
-## What the updates mean to you
+In the 21st century, the Catholic community in Jackson continues to be a vital part of the city's history. With a large and growing population, the Catholic community in Jackson is one of the largest and most active religious communities in the area. In recent years, the Catholic community in Jackson has been at the forefront of social justice activism, working to address issues such as poverty, homelessness, and access to healthcare for those in need.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Despite the challenges faced by the Catholic community in Jackson over the years, they have remained dedicated to their faith and their community. Whether through their activism, their support for local organizations and causes, or simply by living their lives according to the teachings of the Catholic Church, the Catholic community in Jackson continues to make a positive impact on the city and the world.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+the Catholic community in Jackson, Michigan has been a vital part of the city's history for over a century. With a growing population and a commitment to social justice activism, the Catholic community in Jackson is poised to continue making a positive impact on the city and the world for many years to come.  Catholic Footsteps, a non-profit based in Jackson, is proud to be a part of this continuing story of community engagement and activism.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
