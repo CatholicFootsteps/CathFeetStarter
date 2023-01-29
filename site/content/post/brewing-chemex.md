@@ -1,26 +1,26 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Catholic Footsteps - A New Travel Program for Students and Their Parents
+date: 2023-01-25T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Learn about a new travel program for students called Catholic Footsteps.
 image: /img/blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+* Are you a Catholic student looking to explore your heritage and faith? 
+* Or a parent looking to bond with your child and learn about the Catholic history and culture? 
+Then you will love the new travel program **Catholic Footsteps**!
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+## What is Catholic Footsteps?
+Catholic Footsteps is a small group experiential travel program that takes students and their parents to Italy and the Vatican to teach them about Catholic history and heritage. This program is an all-inclusive, all-expense-paid experience for participants, providing a unique opportunity for students to learn and grow while having fun.
 
-## The little secrets of Chemex brewing
+* Provides students and their parents with the opportunity to explore the beauty of Italy, while also gaining a deeper understanding of the Catholic faith and its impact on the world. 
+* Students will visit famous Catholic landmarks, such as St. Peter’s Basilica and the Sistine Chapel
+* Participate in activities designed to learn more about the history and culture of Catholicism.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Parents and students will travel together in a small group, creating a close-knit community of like-minded individuals. This provides a supportive environment where they can make new friends, share experiences, and bond over their shared love of the Catholic faith.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+## Wyh is Catholic Footsteps Unique?
+Catholic Footsteps is a unique opportunity for families to learn, grow, and have fun together. With all expenses paid, participants can focus on the experience and not worry about the financial burden of travel. The program provides a memorable and meaningful experience for students and their parents, and it is an excellent way to deepen their faith and connection with the Catholic community.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+## So why wait?
+Sign up for Catholic Footsteps' newsletter today and get ready to embark on an unforgettable journey of faith, history, and culture!
