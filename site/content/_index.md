@@ -12,9 +12,9 @@ A hundreds years-old church may have been visited by a saint or have been the si
 Catholic cathedrals and other religious buildings also have art and artifacts that tell the story of the Catholic faith, its history, and its diverse communities.
 Visiting these historical sites help Catholic students learn more about their heritage and feel connected to their faith."
 products:
-    - image: img/colosseum.jpg
+    - image: img/colosseum.png
       text: "Our programs will inspire students and parents to expand their view of the global Catholic community and will provide additional context and color for Catholic teachings."
-    - image: /img/pope.jpg
+    - image: /img/pope.png
       text: "We offer unique small-group travel experiences for students with their parent or guardian, that are carefully curated and interactive."
 values:
     heading: Our values
