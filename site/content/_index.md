@@ -1,13 +1,17 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Catholic Footsteps"
+subtitle: Led by Faith / Guided by History
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Catholic Footsteps?
+    text: "Catholic Footsteps is a Michigan-based non-profit, providing curated Catholic heritage travel experiences for students and their families. "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What is Catholic Heritage?"
+    text: "Historical sites can be important to Catholic heritage because they often have connections to important events or people in the history of the Catholic Church.
+For example, a church that was built hundreds of years ago may have been visited by a saint or have been the site of an important religious event.
+Catholic cathedrals and other religious buildings are also considered historical sites that are important to the Catholic heritage.
+These sites may have art and artifacts that tell the story of the Catholic faith and its history.
+Visiting these historical sites can help Catholics learn more about their heritage and feel connected to their faith."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
