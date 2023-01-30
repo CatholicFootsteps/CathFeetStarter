@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-logo: "/img/logo.png"
+logo: "/img/email.png"
 contact_entries:
   - heading: Location
     text: "209 E Washington Avenue-Suite 365, Jackson, Michigan 49201"
