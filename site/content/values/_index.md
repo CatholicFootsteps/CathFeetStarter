@@ -22,7 +22,7 @@ values:
        of their own faith and how it connects to the world around them. 
        Learning about their Catholic heritage also helps students appreciate
        and respect the diversity of beliefs and cultures within our society.
-    imageUrl: "/img/colosseum.png"
+    imageUrl: "/img/colosseum2.png"
   - heading: "Social Justice and Equity"
     text: >
       Social justice and equity are important in Catholicism because they
