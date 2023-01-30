@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "Our Values"
 image: /img/vatican.jpg
 values:
   - heading: "Led by Faith"
