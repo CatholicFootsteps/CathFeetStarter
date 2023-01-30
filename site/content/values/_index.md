@@ -11,7 +11,7 @@ values:
       safely to the other shore,  our motto is- 
       When we have faith and trust in God, we can achieve anything,
       even if it seems impossible.
-    imageUrl: "/img/feetCross.png"
+    imageUrl: "/img/pray.png"
   - heading: "Guided by History"
     text: >
        Understanding Catholic history and heritage are important to learn
