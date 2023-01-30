@@ -3,7 +3,7 @@ title: Catholic Footsteps - A New Travel Program for Students and Their Parents
 date: 2023-01-25T15:04:10.000Z
 description: >-
   Learn about a new travel program for students called Catholic Footsteps.
-image: /img/blog-chemex.jpg
+image: /img/atVatican.png
 ---
 
 * Are you a Catholic student looking to explore your heritage and faith? 
