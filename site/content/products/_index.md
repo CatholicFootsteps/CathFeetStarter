@@ -39,7 +39,7 @@ main:
     faith has shaped the world. It helps students understand the beliefs and
     traditions of the Catholic Church. Students also learn to appreciate and 
     respect the diversity of beliefs and cultures within our society.
-   image: /img/pope.png
+   
 testimonials:
   - author: 2nd Grade Queens Student
     quote: >-
