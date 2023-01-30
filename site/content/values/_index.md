@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/vatican.jpg
 values:
   - heading: "Led by Faith"
     text: >
@@ -11,7 +11,7 @@ values:
       safely to the other shore,  our motto is- 
       When we have faith and trust in God, we can achieve anything,
       even if it seems impossible.
-    imageUrl: "/img/about-shade-grown.jpg"
+    imageUrl: "/img/feetCross.png"
   - heading: "Guided by History"
     text: >
        Understanding Catholic history and heritage are important to learn
@@ -22,7 +22,7 @@ values:
        of their own faith and how it connects to the world around them. 
        Learning about their Catholic heritage also helps students appreciate
        and respect the diversity of beliefs and cultures within our society.
-    imageUrl: "/img/about-single-origin.jpg"
+    imageUrl: "/img/colosseum.png"
   - heading: "Social Justice and Equity"
     text: >
       Social justice and equity are important in Catholicism because they
@@ -34,7 +34,7 @@ values:
       For this reason, all aspects of our programming, from obtaining passports and 
       luggage, to having funds for keepsakes, are all-inclusive and free to student 
       participants and their accompanying parent or guardian.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+    imageUrl: "/img/equity.png"
   - heading: "Diversity- They, Us, We"
     text: >
       The Catholic Church teaches that all people are created in the image of God 
@@ -43,7 +43,7 @@ values:
       opportunities and is treated with fairness and compassion. This includes 
       working towards ending poverty, promoting education, and fighting for the 
       rights of marginalized groups. We value diversity.  We value you!
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/footstep.png"
   - heading: "Investing in the Global Catholic Community"
     text: >
       The Catholic Church is a global community, rather than simply as a
@@ -54,5 +54,5 @@ values:
       traditions within the Church, and to celebrate and learn from the richness of these
       differences.
       You can see learn more about our work on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    imageUrl: "/img/lunch.png"
 ---
