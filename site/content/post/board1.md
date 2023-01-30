@@ -2,7 +2,7 @@
 title: "Join the Board of Catholic Footsteps "
 date: 2023-01-26T15:04:10.000Z
 description: Catholic Footsteps Seeks New Board Members
-image: /img/blog-flavor_wheel.jpg
+image: /img/feetCross.png
 ---
 Catholic Footsteps is a Michigan-based non-profit organization that provides students and their families with the opportunity to explore the beauty, power, and breadth of the Catholic faith through small group travel experiences to Italy and the Vatican. The organization is looking for community members to join its board of directors and help further its mission.
 
