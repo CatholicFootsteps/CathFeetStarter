@@ -9,20 +9,20 @@ description: >-
  Catholic history and the Catholic faith.
 intro:
   blurbs:
-    - image: /img/colosseum.png
+    - image: /img/studentColosseum.png
       text: >
         We provide curated trips to Italy and the Vatican, focused on the
         history, legacy, and beauty of the Catholic church.
-    - image: /img/vatican3.jpg
+    - image: /img/atVatican.png
       text: >
         Our programs highight the incredible diversity of the Catholic world
         and those who have chosen the vocation of religious life.
-    - image: /img/vatican2.jpg
+    - image: /img/vatican3.jpg
       text: >
         We provide opportunity to engage with the papal household and the
         Holy Father, Pope Francis, through attending a papal audience or 
         mass in St. Peter's Square.
-    - image: /img/vatican3.jpg
+    - image: /img/lunch.png
       text: >
         We believe that opportunities to grow in our faith and our love
         of one another abound when we cultivate a global perspective and 
@@ -46,7 +46,7 @@ testimonials:
       and Italian ice cream was the best!
   - author: Erich Hebel
     quote: >-
-      I never imagined how youthful, spirited and diverse the Catholic
+      I never imagined how youthful, spirited, and diverse the Catholic
       community was and is. It made me really proud to be Catholic and was
       nothing short of amazing.
 pricing:
@@ -60,21 +60,21 @@ pricing:
         - School or Parish Recommendation
         - Community Recognition
       plan: Amazing
-      price: '0.00'
+      price: 'Free'
     - description: 'For Parents or Guardians'
       items:
-        - All- Inclusive (airfare, lodging, food, entertainment)                   
-        - A parent or legal guardian must attend
-        - Experience of a lifetime
+        - All-Inclusive (airfare, lodging, food, entertainment)                   
+        - Travel includes a Parent or Legal Guardian
+        - Experience of a Lifetime
       plan: Fantastic
-      price: '0.00'
+      price: 'Free'
     - description: Our Donors and Supporters
       items:
-        - Support program expenses
-        - Sponsor a family
-        - Unlimited blessings
+        - Support Program Costs
+        - Sponsor a Family
+        - Support increased awareness of Catholic Heritage
       plan: Priceless
-      price: ' ?'
+      price: 'You Decide'
 ---
 
 
