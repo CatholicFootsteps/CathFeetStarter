@@ -16,13 +16,14 @@ products:
       carefully curated and interactive."
 values:
     heading: Our Values
-    text: "- Make a Pilgrimage: These trips deepen one's faith and
-    connection with the spiritual history of the Church."
+    text: "
+    - Make a Pilgrimage: These trips deepen one's faith and
+    connection with the spiritual history of the Church.
     
-    text:    "- Foster Respect for Historical Sites and Artifacts: Cultivate an appreciation for preservation."
-        
-    text:    "- Encounter Different Cultures: Catholic heritage and history is not limited to one country or culture, it is a global heritage."
+    - Foster Respect for Historical Sites and Artifacts: Cultivate an appreciation for preservation.
     
-    text:    "We recognize that the Catholic faith has been lived out in many different ways throughout history and that by understanding and appreciating different cultural expressions of the faith, we can deepen our own understanding of our Catholic faith."
+    - Encounter Different Cultures: Catholic heritage and history is not limited to one country or culture, it is a global heritage.
+    
+    We recognize that the Catholic faith has been lived out in many different ways throughout history and that by understanding and appreciating different cultural expressions of the faith, we can deepen our own understanding of our Catholic faith."
 ---
 
