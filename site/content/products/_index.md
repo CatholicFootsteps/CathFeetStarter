@@ -15,12 +15,12 @@ intro:
         history, legacy, and beauty of the Catholic church.
     - image: /img/atVatican.png
       text: >
-        Our programs highight the incredible diversity of the Catholic world
+        Our program highights the incredible diversity of the Catholic world
         and those who have chosen the vocation of religious life.
     - image: /img/vatican3.jpg
       text: >
         We provide opportunity to engage with the papal household and the
-        Holy Father, Pope Francis, through attending a papal audience or 
+        Holy Father through attending a papal audience or 
         mass in St. Peter's Square.
     - image: /img/lunch.png
       text: >
@@ -57,9 +57,9 @@ pricing:
   plans:
     - description: 'For Students in Catholic Education'
       items:
-        - Streamlined Application Process
-        - School or Parish Recommendation
-        - Community Recognition
+        - Learn about the history and culture of Italy and the Roman Catholic Church
+        - Visit famous landmarks such as the Colosseum and the Sistine Chapeln
+        - Make new friends and build memories that will last a lifetime
       plan: Amazing
       price: 'Free'
     - description: 'For Parents or Guardians'
@@ -73,7 +73,7 @@ pricing:
       items:
         - Support Program Costs
         - Sponsor a Family
-        - Support increased awareness of Catholic Heritage
+        - Support increased awareness of Catholic heritage sites
       plan: Priceless
       price: 'You Decide'
 ---
